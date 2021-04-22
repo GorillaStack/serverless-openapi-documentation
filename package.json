@@ -1,17 +1,18 @@
 {
-  "name": "serverless-openapi-documentation",
+  "name": "@gorillastack/serverless-openapi-documentation",
   "version": "0.4.0",
   "description": "Serverless 1.0 plugin to generate OpenAPI V3 documentation from serverless configuration",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/temando/serverless-openapi-documentation.git"
+    "url": "https://github.com/gorillastack/serverless-openapi-documentation.git"
   },
-  "bugs": "https://github.com/temando/serverless-openapi-documentation/issues",
+  "bugs": "https://github.com/gorillastack/serverless-openapi-documentation/issues",
   "author": "Abilio Henrique <abilio.henrique@temando.com>",
   "contributors": [
     "Abilio Henrique <abilio.henrique@temando.com>",
-    "nfour <novus.nfour@gmail.com>"
+    "nfour <novus.nfour@gmail.com>",
+    "GorillaStack"
   ],
   "keywords": [
     "OpenAPI",
