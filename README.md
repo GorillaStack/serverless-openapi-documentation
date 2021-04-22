@@ -4,6 +4,13 @@
 [![Travis CI](https://img.shields.io/travis/temando/serverless-openapi-documentation.svg)](https://travis-ci.org/temando/serverless-openapi-documentation)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+---
+
+Forked from the deprecated Temando plugin.
+
+Applies an open PR on the Tendando plugin from [jhaagmans](https://github.com/jhaagmans)
+to fix an issue related to `pathParams` and `queryParams`.
+
 Generates [**OpenAPI 3.0.0**](https://github.com/OAI/OpenAPI-Specification/blob/3.0.0/versions/3.0.0.md) documentation from serverless configuration files. OpenAPI is formerly known as Swagger. The configuration is inspired by the format used in [serverless-aws-documentation](https://www.npmjs.com/package/serverless-aws-documentation).
 
 Works well with [Lincoln OpenAPI Renderer](https://github.com/temando/open-api-renderer).
